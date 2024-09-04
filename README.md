@@ -1,4 +1,9 @@
 # Fake-News-Prediction
+
+## Dataset link on kaggle : 
+https://www.kaggle.com/competitions/fake-news/overview
+
+
 ## Columns in the data :
 
 id: unique id for a news article
@@ -15,5 +20,3 @@ label: a label that marks the article as potentially unreliable
 
 0: reliable
 
-## Dataset link on kaggle : 
-https://www.kaggle.com/competitions/fake-news/overview
